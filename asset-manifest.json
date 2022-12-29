@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/AiplDevReact/reactapi/static/css/main.44592647.chunk.css",
-    "main.js": "/AiplDevReact/reactapi/static/js/main.5881b321.chunk.js",
-    "main.js.map": "/AiplDevReact/reactapi/static/js/main.5881b321.chunk.js.map",
+    "main.js": "/AiplDevReact/reactapi/static/js/main.3c02a54f.chunk.js",
+    "main.js.map": "/AiplDevReact/reactapi/static/js/main.3c02a54f.chunk.js.map",
     "runtime-main.js": "/AiplDevReact/reactapi/static/js/runtime-main.ecf9b781.js",
     "runtime-main.js.map": "/AiplDevReact/reactapi/static/js/runtime-main.ecf9b781.js.map",
-    "static/js/2.842a36f9.chunk.js": "/AiplDevReact/reactapi/static/js/2.842a36f9.chunk.js",
-    "static/js/2.842a36f9.chunk.js.map": "/AiplDevReact/reactapi/static/js/2.842a36f9.chunk.js.map",
+    "static/js/2.f76dec3c.chunk.js": "/AiplDevReact/reactapi/static/js/2.f76dec3c.chunk.js",
+    "static/js/2.f76dec3c.chunk.js.map": "/AiplDevReact/reactapi/static/js/2.f76dec3c.chunk.js.map",
     "index.html": "/AiplDevReact/reactapi/index.html",
     "static/css/main.44592647.chunk.css.map": "/AiplDevReact/reactapi/static/css/main.44592647.chunk.css.map",
-    "static/js/2.842a36f9.chunk.js.LICENSE.txt": "/AiplDevReact/reactapi/static/js/2.842a36f9.chunk.js.LICENSE.txt"
+    "static/js/2.f76dec3c.chunk.js.LICENSE.txt": "/AiplDevReact/reactapi/static/js/2.f76dec3c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ecf9b781.js",
-    "static/js/2.842a36f9.chunk.js",
+    "static/js/2.f76dec3c.chunk.js",
     "static/css/main.44592647.chunk.css",
-    "static/js/main.5881b321.chunk.js"
+    "static/js/main.3c02a54f.chunk.js"
   ]
 }
